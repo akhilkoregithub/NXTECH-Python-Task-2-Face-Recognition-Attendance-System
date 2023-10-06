@@ -1,0 +1,17 @@
+cmake==3.27.6
+customtkinter==5.2.0
+distlib==0.3.4
+dlib @ file:///C:/Users/kore%20akhil/Downloads/facereco-attendance-Excel-main/dlib-for-python3.10/dlib-19.22.99-cp310-cp310-win_amd64.whl#sha256=f2181b6724669fb0147c9ebc326d72b94de41bced1812eff5df4b133b5d0b575
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+gTTS==2.3.2
+numpy==1.23.3
+opencv-python==4.6.0.66
+openpyxl==3.1.2
+pandas==1.5.1
+Pillow==9.2.0
+PyAutoGUI==0.9.54
+streamlit==1.27.2
+xlrd==2.0.1
+xmltodict==0.13.0
+
